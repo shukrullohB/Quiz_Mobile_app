@@ -1,16 +1,11 @@
-# quiz_my2
+| Quiz Mobile App |  |
+|-----------------|--|
+| **Description** | Simple quiz application built with Flutter and Dart. Answer questions, choose categories, and see your score. |
+| **Features** | Quiz questions<br>Category selection<br>Random quiz mode<br>Score result screen |
+| **Built With** | Flutter<br>Dart |
+| **Run Project** | `git clone https://github.com/shukrullohB/Quiz_Mobile_app.git`<br>`cd Quiz_Mobile_app`<br>`flutter pub get`<br>`flutter run` |
 
-A new Flutter project.
+git add README.md
+git commit -m "Add README"
+git push
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
