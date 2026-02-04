@@ -33,7 +33,7 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
       correctAnswer: 0,
     ),
     Question(
-      text: 'What is the largest mammal in the world?',
+      text: 'What is the largest animal in the world?',
       options: ['Elephant', 'Blue Whale', 'Giraffe', 'Hippopotamus'],
       correctAnswer: 1,
     ),
@@ -61,6 +61,11 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
       text: 'Where is the Great Pyramid of Giza located?',
       options: ['Greece', 'China', 'India', 'Egypt'],
       correctAnswer: 3,
+    ),
+    Question(
+      text: 'What is the smallest country in the world?',
+      options: ['Vatican City', 'Monaco', 'San Marino', 'Liechtenstein'],
+      correctAnswer: 0,
     ),
   ];
 
